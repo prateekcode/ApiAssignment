@@ -13,7 +13,7 @@ API Assignment uses the [RegresAPI](https://reqres.in/) to perform CRUD Operatio
 * [Circular Image View](https://github.com/hdodenhof/CircleImageView) - A fast circular ImageView perfect for profile images
 
 ## Screenshots 
-![Screenshot1](https://github.com/prateekcode/ApiAssignment/blob/master/Media/Screenshot3.jpg =100*20)
+<img src= "https://github.com/prateekcode/ApiAssignment/blob/master/Media/Screenshot3.jpg" width ="200"> <img src= "https://github.com/prateekcode/ApiAssignment/blob/master/Media/Screenshot2.jpg" width ="200"> <img src= "https://github.com/prateekcode/ApiAssignment/blob/master/Media/Screenshot1.jpg" width ="200">
 
   
 ## License
