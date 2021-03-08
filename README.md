@@ -12,6 +12,9 @@ API Assignment uses the [RegresAPI](https://reqres.in/) to perform CRUD Operatio
 * [Coil](https://github.com/coil-kt/coil) - An image loading library for Android backed by Kotlin Coroutines.
 * [Circular Image View](https://github.com/hdodenhof/CircleImageView) - A fast circular ImageView perfect for profile images
 
+## Screenshots 
+![Screenshot1](https://github.com/prateekcode/ApiAssignment/blob/master/Media/Screenshot3.jpg =100*20)
+
   
 ## License
 ```
